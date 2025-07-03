@@ -1,4 +1,4 @@
-# secretbook-social-media-project-React-Laravel
+# social-media-project-React-Laravel
 
 # In this project frontend is created with React and Backend with Laravel API and Database is created PhpMyAdmin Tool with MySQL, it is fully responsive with Website and Mobile View .
 
