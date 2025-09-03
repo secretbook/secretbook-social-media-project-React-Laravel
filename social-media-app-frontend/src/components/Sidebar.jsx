@@ -67,11 +67,11 @@ function Sidebar() {
             </Link>
           </li>
 
-           <li>
+           {/* <li>
             <Link to="/payment-gateway" className="nav-link text-white d-flex align-items-center" onClick={() => setShowSidebar(false)}>
               <LayoutDashboard size={18} className="me-2" /> PaymentGateway
             </Link>
-          </li>
+          </li> */}
 
           <li className="mt-3">
             <Link to="/" className="nav-link text-danger d-flex align-items-center" onClick={() => setShowSidebar(false)}>
